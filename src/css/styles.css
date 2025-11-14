@@ -53,6 +53,10 @@ body {
 
 /* Navbar */
 
+nav {
+  border-bottom: 1px solid #e5e7eb;
+}
+
 .nav-logo {
   background: linear-gradient(to bottom right, #155dfc, #9810fa);
   height: 32px;
