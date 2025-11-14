@@ -60,3 +60,7 @@ body {
   width: 32px;
   border-radius: 10px;
 }
+
+.register-btn {
+  background: #030213;
+}
