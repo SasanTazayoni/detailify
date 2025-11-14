@@ -3,3 +3,7 @@
 *::after {
   box-sizing: border-box;
 }
+
+.landing-page-and-dashboard {
+  max-width: 1200px;
+}

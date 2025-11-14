@@ -1,5 +1,5 @@
 function App() {
-  return <h1>Initial commit</h1>;
+  return <div className="landing-page-and-dashboard"></div>;
 }
 
 export default App;
