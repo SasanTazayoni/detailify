@@ -4,6 +4,36 @@
   box-sizing: border-box;
 }
 
+body {
+  margin: 0;
+}
+
 .landing-page-and-dashboard {
   max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+/* Navbar */
+
+.navbar {
+  padding: 0 32px;
+}
+
+.navbar-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-brand {
+  display: flex;
+  align-items: center;
+}
+
+.nav-logo {
+  background: linear-gradient(to bottom right, #155dfc, #9810fa);
+  height: 32px;
+  width: 32px;
+  border-radius: 10px;
 }
