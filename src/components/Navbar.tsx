@@ -1,7 +1,7 @@
 function Navbar() {
   return (
-    <nav className="px-8 mt-2">
-      <div className="flex justify-between items-center py-4">
+    <nav className="w-full mt-2">
+      <div className="navbar-content flex justify-between items-center py-4 px-8">
         <div className="flex items-center gap-2">
           <div className="nav-logo"></div>
           <span className="font-semibold dark-text">Detailify</span>
