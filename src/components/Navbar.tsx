@@ -1,18 +1,18 @@
 function Navbar() {
   return (
-    <nav className="navbar">
-      <div className="navbar-wrapper">
-        <div className="navbar-brand">
+    <nav className="px-8">
+      <div className="flex justify-between items-center">
+        <div className="flex items-center gap-2">
           <div className="nav-logo"></div>
           Detailify
         </div>
-        <div>
+        <div className="flex gap-8">
           <a href="/">Features</a>
           <a href="/">Pricing</a>
           <a href="/">About</a>
           <a href="/">Dashboard</a>
         </div>
-        <div>
+        <div className="flex gap-3">
           <button>Sign In</button>
           <button>Get Started</button>
         </div>

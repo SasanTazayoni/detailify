@@ -18,21 +18,6 @@ body {
 
 /* Navbar */
 
-.navbar {
-  padding: 0 32px;
-}
-
-.navbar-wrapper {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.navbar-brand {
-  display: flex;
-  align-items: center;
-}
-
 .nav-logo {
   background: linear-gradient(to bottom right, #155dfc, #9810fa);
   height: 32px;
