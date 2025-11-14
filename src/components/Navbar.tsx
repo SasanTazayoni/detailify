@@ -13,8 +13,10 @@ function Navbar() {
           <a href="/">Dashboard</a>
         </div>
         <div className="flex gap-2 font-medium text-sm leading-5">
-          <button className="dark-text py-2 px-4 rounded-lg">Sign In</button>
-          <button className="text-white py-2 px-4 rounded-lg register-btn">
+          <button className="dark-text py-2 px-4 rounded-lg cursor-pointer">
+            Sign In
+          </button>
+          <button className="text-white py-2 px-4 rounded-lg register-btn cursor-pointer">
             Get Started
           </button>
         </div>
