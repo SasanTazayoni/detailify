@@ -7,7 +7,9 @@ function App() {
       <Navbar />
       <section className="p-4 grid grid-cols-1 md:grid-cols-2 gap-8 items-center mt-12">
         <div>
-          <span>New Release v2.0</span>
+          <span className="badge inline-block text-white font-medium px-2 py-1 text-xs leading-4">
+            New Release v2.0
+          </span>
           <h1>
             Build with precision and <span>attention to detail</span>
           </h1>

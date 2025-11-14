@@ -67,3 +67,10 @@ nav {
 .register-btn {
   background: #030213;
 }
+
+/* Hero */
+
+.badge {
+  background: #030213;
+  border-radius: 8px;
+}
