@@ -6,7 +6,7 @@ function Navbar() {
           <div className="nav-logo"></div>
           <span className="font-semibold dark-text">Detailify</span>
         </div>
-        <div className="flex gap-8">
+        <div className="flex gap-8 dark-grey-text">
           <a href="/">Features</a>
           <a href="/">Pricing</a>
           <a href="/">About</a>
