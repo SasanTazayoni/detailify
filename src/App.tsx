@@ -5,8 +5,8 @@ import "./css/styles.css";
 function App() {
   return (
     <>
+      <Navbar />
       <div className="landing-page-and-dashboard">
-        <Navbar />
         <Hero />
       </div>
     </>
