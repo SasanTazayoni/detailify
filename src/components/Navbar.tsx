@@ -4,7 +4,9 @@ function Navbar() {
       <div className="flex justify-between items-center py-4">
         <div className="flex items-center gap-2">
           <div className="nav-logo"></div>
-          Detailify
+          <span className="font-semibold text-base leading-6 dark-text">
+            Detailify
+          </span>
         </div>
         <div className="flex gap-8">
           <a href="/">Features</a>
