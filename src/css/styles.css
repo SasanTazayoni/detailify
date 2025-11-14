@@ -24,6 +24,34 @@ body {
   color: #0a0a0a;
 }
 
+.alternate-dark-text {
+  color: #030213;
+}
+
+.dark-grey-text {
+  color: #4a5565;
+}
+
+.grey-text {
+  color: #717182;
+}
+
+.white-text {
+  color: #fff;
+}
+
+.yellow-text {
+  color: #f0b100;
+}
+
+.blue-text {
+  color: #dbeafe;
+}
+
+.footer-text {
+  color: #d1d5dc;
+}
+
 /* Navbar */
 
 .nav-logo {
