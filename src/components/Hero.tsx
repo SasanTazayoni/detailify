@@ -11,25 +11,25 @@ function Hero() {
 
         <h1
           id="hero-heading"
-          className="text-[60px] leading-[60px] dark-text mt-1 mb-12"
+          className="text-[60px] leading-[60px] dark-text mt-1 mb-12 tracking-[-1.24px]"
         >
           Build with precision and{" "}
-          <span className="text-[48px] font-bold bg-linear-to-br from-[#155dfc] to-[#9810fa] bg-clip-text text-transparent">
+          <span className="text-[48px] font-bold bg-linear-to-br from-[#155dfc] to-[#9810fa] bg-clip-text text-transparent tracking-[-1.24px]">
             attention to detail
           </span>
         </h1>
 
-        <p className="text-[20px] leading-7 dark-grey-text">
+        <p className="text-[20px] leading-7 dark-grey-text tracking-[-0.45px]">
           The modern platform for teams who care about quality. Every pixel
           matters, every interaction counts.
         </p>
 
         <div className="flex gap-4 mt-6 font-medium text-sm leading-5 mb-8">
-          <button className="h-10 rounded-lg px-4 flex items-center gap-4 free-trial-btn text-white cursor-pointer">
+          <button className="h-10 rounded-lg px-4 flex items-center gap-4 free-trial-btn text-white cursor-pointer tracking-[-0.15px]">
             Start Free Trial
             <i className="fa-solid fa-arrow-right"></i>
           </button>
-          <button className="h-10 rounded-lg watch-demo-btn px-6 cursor-pointer dark-text">
+          <button className="h-10 rounded-lg watch-demo-btn px-6 cursor-pointer dark-text tracking-[-0.15px]">
             Watch Demo
           </button>
         </div>
@@ -45,11 +45,11 @@ function Hero() {
           </div>
 
           <div className="inline-block">
-            <div className="text-sm dark-grey-text">
+            <div className="text-sm dark-grey-text tracking-[-0.15px]">
               Trusted by 10,000+ developers
             </div>
             <div
-              className="text-sm yellow-text flex items-center gap-2"
+              className="text-sm yellow-text flex items-center gap-2 tracking-[-0.15px]"
               aria-label="Rated 4.9 out of 5 stars by over ten thousand developers"
             >
               <div className="flex gap-0.5" aria-hidden="true">
