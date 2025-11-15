@@ -33,7 +33,7 @@ function Pricing() {
 
         <div className="border border-[rgba(0,0,0,0.1)] rounded-2xl p-8 text-left w-[320px] h-[448px]">
           <header>
-            <span className="badge inline-block text-white font-medium px-2 py-1 text-xs leading-4">
+            <span className="badge text-white font-medium px-2 py-0.5 text-xs leading-4 inline-flex items-center justify-center w-[100px] h-[23px] text-center">
               Most Popular
             </span>
             <h3 className="dark-text text-xl font-semibold">Professional</h3>
