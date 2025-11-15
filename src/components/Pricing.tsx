@@ -16,13 +16,17 @@ function Pricing() {
       <div className="flex flex-col md:flex-row justify-center items-center gap-8">
         <div className="border border-[rgba(0,0,0,0.1)] rounded-2xl p-8 text-left w-[320px] h-[448px]">
           <header>
-            <h3 className="dark-text text-xl font-semibold">Starter</h3>
-            <p className="dark-grey-text mt-1">$29/month</p>
-            <p>Perfect for small teams</p>
+            <h3 className="dark-text text-xl font-semibold tracking-[-0.31px]">
+              Starter
+            </h3>
+            <p className="dark-grey-text mt-1 tracking-[0.37px]">
+              $29<span>/month</span>
+            </p>
+            <p className="tracking-[-0.31px]">Perfect for small teams</p>
           </header>
           <div>
-            <button>Get Started</button>
-            <ul>
+            <button className="tracking-[-0.15px]">Get Started</button>
+            <ul className="tracking-[-0.31px]">
               <li>Up to 5 team members</li>
               <li>10GB storage</li>
               <li>Basic analytics</li>
@@ -36,13 +40,17 @@ function Pricing() {
             <span className="badge text-white font-medium px-2 py-0.5 text-xs leading-4 inline-flex items-center justify-center w-[100px] h-[23px] text-center">
               Most Popular
             </span>
-            <h3 className="dark-text text-xl font-semibold">Professional</h3>
-            <p className="dark-grey-text mt-1">$79/month</p>
-            <p>For growing businesses</p>
+            <h3 className="dark-text text-xl font-semibold tracking-[-0.31px]">
+              Professional
+            </h3>
+            <p className="dark-grey-text mt-1 tracking-[0.37px]">
+              $79<span>/month</span>
+            </p>
+            <p className="tracking-[-0.31px]">For growing businesses</p>
           </header>
           <div>
-            <button>Get Started</button>
-            <ul>
+            <button className="tracking-[-0.15px]">Get Started</button>
+            <ul className="tracking-[-0.31px]">
               <li>Up to 20 team members</li>
               <li>100GB storage</li>
               <li>Advanced analytics</li>
@@ -54,13 +62,15 @@ function Pricing() {
 
         <div className="border border-[rgba(0,0,0,0.1)] rounded-2xl p-8 text-left w-[320px] h-[448px]">
           <header>
-            <h3 className="dark-text text-xl font-semibold">Enterprise</h3>
-            <p className="dark-grey-text mt-1">Custom</p>
-            <p>For large organizations</p>
+            <h3 className="dark-text text-xl font-semibold tracking-[-0.31px]">
+              Enterprise
+            </h3>
+            <p className="dark-grey-text mt-1 tracking-[0.37px]">Custom</p>
+            <p className="tracking-[-0.31px]">For large organizations</p>
           </header>
           <div>
-            <button>Contact Sales</button>
-            <ul>
+            <button className="tracking-[-0.15px]">Contact Sales</button>
+            <ul className="tracking-[-0.31px]">
               <li>Unlimited team members</li>
               <li>Unlimited storage</li>
               <li>Enterprise analytics</li>
