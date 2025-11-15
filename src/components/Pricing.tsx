@@ -14,15 +14,20 @@ function Pricing() {
       </header>
 
       <div className="flex flex-col md:flex-row justify-center items-center gap-8">
-        <div className="border border-[rgba(0,0,0,0.1)] rounded-2xl p-8 text-left w-[320px] h-[448px]">
+        <div className="border border-[rgba(0,0,0,0.1)] rounded-2xl p-6 text-left w-[320px] h-[448px]">
           <header>
-            <h3 className="dark-text text-xl font-semibold tracking-[-0.31px]">
+            <h3 className="dark-text font-medium tracking-[-0.31px] leading-4 mb-4">
               Starter
             </h3>
-            <p className="dark-grey-text mt-1 tracking-[0.37px]">
-              $29<span>/month</span>
+            <p className="dark-text mt-1 text-[36px] leading-10 tracking-[0.37px] mb-4">
+              $29
+              <span className="dark-grey-text tracking-[-0.31px] text-base">
+                /month
+              </span>
             </p>
-            <p className="tracking-[-0.31px]">Perfect for small teams</p>
+            <p className="tracking-[-0.31px] grey-text leading-6 mb-4">
+              Perfect for small teams
+            </p>
           </header>
           <div>
             <button className="tracking-[-0.15px]">Get Started</button>
@@ -35,18 +40,23 @@ function Pricing() {
           </div>
         </div>
 
-        <div className="border border-[rgba(0,0,0,0.1)] rounded-2xl p-8 text-left w-[320px] h-[448px]">
+        <div className="border border-[rgba(0,0,0,0.1)] rounded-2xl p-6 text-left w-[320px] h-[448px]">
           <header>
-            <span className="badge text-white font-medium px-2 py-0.5 text-xs leading-4 inline-flex items-center justify-center w-[100px] h-[23px] text-center">
+            <span className="badge text-white font-medium px-2 py-0.5 text-xs leading-4 inline-flex items-center justify-center w-[100px] h-[23px] text-center mb-4">
               Most Popular
             </span>
-            <h3 className="dark-text text-xl font-semibold tracking-[-0.31px]">
+            <h3 className="dark-text tracking-[-0.31px] leading-4 mb-4">
               Professional
             </h3>
-            <p className="dark-grey-text mt-1 tracking-[0.37px]">
-              $79<span>/month</span>
+            <p className="dark-text mt-1 text-[36px] leading-10 tracking-[0.37px] mb-4">
+              $79
+              <span className="dark-grey-text tracking-[-0.31px] text-base">
+                /month
+              </span>
             </p>
-            <p className="tracking-[-0.31px]">For growing businesses</p>
+            <p className="tracking-[-0.31px] grey-text leading-6 mb-4">
+              For growing businesses
+            </p>
           </header>
           <div>
             <button className="tracking-[-0.15px]">Get Started</button>
@@ -60,13 +70,17 @@ function Pricing() {
           </div>
         </div>
 
-        <div className="border border-[rgba(0,0,0,0.1)] rounded-2xl p-8 text-left w-[320px] h-[448px]">
+        <div className="border border-[rgba(0,0,0,0.1)] rounded-2xl p-6 text-left w-[320px] h-[448px]">
           <header>
-            <h3 className="dark-text text-xl font-semibold tracking-[-0.31px]">
+            <h3 className="dark-text font-medium tracking-[-0.31px] leading-4 mb-4">
               Enterprise
             </h3>
-            <p className="dark-grey-text mt-1 tracking-[0.37px]">Custom</p>
-            <p className="tracking-[-0.31px]">For large organizations</p>
+            <p className="dark-text mt-1 text-[36px] leading-10 tracking-[0.37px] mb-4">
+              Custom
+            </p>
+            <p className="tracking-[-0.31px] grey-text leading-6 mb-4">
+              For large organizations
+            </p>
           </header>
           <div>
             <button className="tracking-[-0.15px]">Contact Sales</button>
