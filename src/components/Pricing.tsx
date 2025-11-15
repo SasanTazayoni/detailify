@@ -2,10 +2,13 @@ function Pricing() {
   return (
     <section className="py-20 text-center" aria-labelledby="pricing-heading">
       <header className="mb-12">
-        <h2 id="pricing-heading" className="dark-text text-[36px] leading-10">
+        <h2
+          id="pricing-heading"
+          className="dark-text text-[36px] leading-10 tracking-[0.37px]"
+        >
           Simple, transparent pricing
         </h2>
-        <p className="dark-grey-text text-xl mt-3">
+        <p className="dark-grey-text text-xl mt-3 leading-7 tracking-[-0.45px]">
           Choose the plan that's right for your team
         </p>
       </header>
