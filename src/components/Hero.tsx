@@ -13,7 +13,7 @@ function Hero() {
         </h1>
         <p className="text-[20px] leading-7 dark-grey-text">
           The modern platform for teams who care about quality. Every pixel
-          matteres, every interaction counts.
+          matters, every interaction counts.
         </p>
         <div className="flex gap-4 mt-6 font-medium text-sm leading-5 mb-8">
           <button className="h-10 rounded-lg px-4 flex items-center gap-4 free-trial-btn text-white cursor-pointer">
