@@ -1,14 +1,17 @@
 function Features() {
   return (
     <section
-      className="p-6 mt-48 mb-8 text-center"
+      className="p-6 mt-48 mb-8 text-center tracking-[-0.31px]"
       aria-labelledby="features-heading"
     >
       <header>
-        <h2 id="features-heading" className="dark-text text-[36px] leading-10">
+        <h2
+          id="features-heading"
+          className="dark-text text-[36px] leading-10 tracking-[0.37px]"
+        >
           Built for the detail-oriented
         </h2>
-        <p className="dark-grey-text leading-7 text-xl mt-4 max-w-3xl px-8 mx-auto">
+        <p className="dark-grey-text leading-7 text-xl mt-4 max-w-3xl px-8 mx-auto tracking-[-0.45px]">
           Every feature designed with precision and care. Experience the
           difference quality makes.
         </p>
