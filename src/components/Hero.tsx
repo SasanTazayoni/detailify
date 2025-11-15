@@ -15,11 +15,14 @@ function Hero() {
           The modern platform for teams who care about quality. Every pixel
           matteres, every interaction counts.
         </p>
-        <div>
-          <button>
-            Start Free Trial <span>Icon</span>
+        <div className="flex gap-4 mt-6 font-medium text-sm leading-5">
+          <button className="h-10 rounded-lg px-4 flex items-center gap-4 free-trial-btn text-white cursor-pointer">
+            Start Free Trial
+            <i className="fa-solid fa-arrow-right"></i>
           </button>
-          <button>Watch Demo</button>
+          <button className="h-10 rounded-lg watch-demo-btn px-6 cursor-pointer dark-text">
+            Watch Demo
+          </button>
         </div>
         <div>
           <div>
