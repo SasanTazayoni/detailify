@@ -80,3 +80,11 @@ nav {
   background: #030213;
   border-radius: 8px;
 }
+
+.free-trial-btn {
+  background: #030213;
+}
+
+.watch-demo-btn {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
