@@ -12,12 +12,12 @@ function CallToAction() {
         </p>
 
         <div className="flex justify-center items-end gap-4 h-14">
-          <button className="cursor-pointer bg-white text-[#155DFC] font-medium py-2 px-5 rounded-lg flex items-center gap-2">
+          <button className="h-10 cursor-pointer start-free-trial-btn alternate-dark-text font-medium text-sm py-2 px-4 rounded-lg flex items-center gap-4 leading-5 tracking-[-0.15px]">
             Start Free Trial
-            <i className="fa-solid fa-arrow-right"></i>
+            <i className="fa-solid fa-arrow-right w-4 h-4"></i>
           </button>
 
-          <button className="cursor-pointer bg-transparent border border-white text-white font-medium py-2 px-5 rounded-lg">
+          <button className="h-10 cursor-pointer bg-transparent border border-white text-white font-medium py-2 px-6 rounded-lg text-sm leading-5 tracking-[-0.15px]">
             Schedule Demo
           </button>
         </div>
