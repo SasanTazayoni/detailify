@@ -30,7 +30,7 @@ function Pricing() {
             </p>
           </header>
           <div>
-            <button className="dark-text text-sm font-medium p-2 mb-5 tracking-[-0.15px] rounded-lg border border-[rgba(0,0,0,0.1)] w-full">
+            <button className="dark-text text-sm font-medium p-2 mb-5 tracking-[-0.15px] rounded-lg border border-[rgba(0,0,0,0.1)] w-full cursor-pointer">
               Get Started
             </button>
             <ul className="dark-text tracking-[-0.31px] leading-6 space-y-3">
@@ -61,7 +61,7 @@ function Pricing() {
             </p>
           </header>
           <div>
-            <button className="text-white text-sm font-medium p-2 mb-5 tracking-[-0.15px] rounded-lg border border-[rgba(0,0,0,0.1)] w-full">
+            <button className="text-white text-sm font-medium p-2 mb-5 tracking-[-0.15px] rounded-lg border border-[rgba(0,0,0,0.1)] w-full cursor-pointer">
               Get Started
             </button>
             <ul className="dark-text tracking-[-0.31px] leading-6 space-y-3">
@@ -87,7 +87,7 @@ function Pricing() {
             </p>
           </header>
           <div>
-            <button className="dark-text text-sm font-medium p-2 mb-5 tracking-[-0.15px] rounded-lg border border-[rgba(0,0,0,0.1)] w-full">
+            <button className="dark-text text-sm font-medium p-2 mb-5 tracking-[-0.15px] rounded-lg border border-[rgba(0,0,0,0.1)] w-full cursor-pointer">
               Contact Sales
             </button>
             <ul className="dark-text tracking-[-0.31px] leading-6 space-y-3">
