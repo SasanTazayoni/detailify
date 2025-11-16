@@ -6,7 +6,7 @@ function CallToAction() {
           Ready to get started?
         </h2>
 
-        <p className="text-center text-white text-lg mb-6">
+        <p className="text-center blue-text mb-6 text-xl leading-7 tracking-[-0.45px]">
           Join thousands of teams building with precision and attention to
           detail
         </p>
