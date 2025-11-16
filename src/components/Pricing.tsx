@@ -34,10 +34,46 @@ function Pricing() {
               Get Started
             </button>
             <ul className="dark-text tracking-[-0.31px] leading-6 space-y-3">
-              <li>Up to 5 team members</li>
-              <li>10GB storage</li>
-              <li>Basic analytics</li>
-              <li>Email support</li>
+              <li className="flex items-start gap-3">
+                <img
+                  src="/icons/tick.png"
+                  alt=""
+                  aria-hidden="true"
+                  role="presentation"
+                  className="w-4 h-4"
+                />
+                <span>Up to 5 team members</span>
+              </li>
+              <li className="flex items-start gap-3">
+                <img
+                  src="/icons/tick.png"
+                  alt=""
+                  aria-hidden="true"
+                  role="presentation"
+                  className="w-4 h-4"
+                />
+                <span>10GB storage</span>
+              </li>
+              <li className="flex items-start gap-3">
+                <img
+                  src="/icons/tick.png"
+                  alt=""
+                  aria-hidden="true"
+                  role="presentation"
+                  className="w-4 h-4"
+                />
+                <span>Basic analytics</span>
+              </li>
+              <li className="flex items-start gap-3">
+                <img
+                  src="/icons/tick.png"
+                  alt=""
+                  aria-hidden="true"
+                  role="presentation"
+                  className="w-4 h-4"
+                />
+                <span>Email support</span>
+              </li>
             </ul>
           </div>
         </div>
@@ -65,11 +101,56 @@ function Pricing() {
               Get Started
             </button>
             <ul className="dark-text tracking-[-0.31px] leading-6 space-y-3">
-              <li>Up to 20 team members</li>
-              <li>100GB storage</li>
-              <li>Advanced analytics</li>
-              <li>Priority support</li>
-              <li>Custom integrations</li>
+              <li className="flex items-start gap-3">
+                <img
+                  src="/icons/tick.png"
+                  alt=""
+                  aria-hidden="true"
+                  role="presentation"
+                  className="w-4 h-4"
+                />
+                <span>Up to 20 team members</span>
+              </li>
+              <li className="flex items-start gap-3">
+                <img
+                  src="/icons/tick.png"
+                  alt=""
+                  aria-hidden="true"
+                  role="presentation"
+                  className="w-4 h-4"
+                />
+                <span>100GB storage</span>
+              </li>
+              <li className="flex items-start gap-3">
+                <img
+                  src="/icons/tick.png"
+                  alt=""
+                  aria-hidden="true"
+                  role="presentation"
+                  className="w-4 h-4"
+                />
+                <span>Advanced analytics</span>
+              </li>
+              <li className="flex items-start gap-3">
+                <img
+                  src="/icons/tick.png"
+                  alt=""
+                  aria-hidden="true"
+                  role="presentation"
+                  className="w-4 h-4"
+                />
+                <span>Priority support</span>
+              </li>
+              <li className="flex items-start gap-3">
+                <img
+                  src="/icons/tick.png"
+                  alt=""
+                  aria-hidden="true"
+                  role="presentation"
+                  className="w-4 h-4"
+                />
+                <span>Custom integrations</span>
+              </li>
             </ul>
           </div>
         </div>
@@ -91,11 +172,56 @@ function Pricing() {
               Contact Sales
             </button>
             <ul className="dark-text tracking-[-0.31px] leading-6 space-y-3">
-              <li>Unlimited team members</li>
-              <li>Unlimited storage</li>
-              <li>Enterprise analytics</li>
-              <li>24/7 dedicated support</li>
-              <li>Custom SLA</li>
+              <li className="flex items-start gap-3">
+                <img
+                  src="/icons/tick.png"
+                  alt=""
+                  aria-hidden="true"
+                  role="presentation"
+                  className="w-4 h-4"
+                />
+                <span>Unlimited team members</span>
+              </li>
+              <li className="flex items-start gap-3">
+                <img
+                  src="/icons/tick.png"
+                  alt=""
+                  aria-hidden="true"
+                  role="presentation"
+                  className="w-4 h-4"
+                />
+                <span>Unlimited storage</span>
+              </li>
+              <li className="flex items-start gap-3">
+                <img
+                  src="/icons/tick.png"
+                  alt=""
+                  aria-hidden="true"
+                  role="presentation"
+                  className="w-4 h-4"
+                />
+                <span>Enterprise analytics</span>
+              </li>
+              <li className="flex items-start gap-3">
+                <img
+                  src="/icons/tick.png"
+                  alt=""
+                  aria-hidden="true"
+                  role="presentation"
+                  className="w-4 h-4"
+                />
+                <span>24/7 dedicated support</span>
+              </li>
+              <li className="flex items-start gap-3">
+                <img
+                  src="/icons/tick.png"
+                  alt=""
+                  aria-hidden="true"
+                  role="presentation"
+                  className="w-4 h-4"
+                />
+                <span>Custom SLA</span>
+              </li>
             </ul>
           </div>
         </div>
