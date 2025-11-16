@@ -13,7 +13,7 @@ function Pricing() {
         </p>
       </header>
 
-      <div className="flex flex-col md:flex-row justify-center items-center gap-12">
+      <div className="flex flex-col md:flex-row justify-center items-center gap-8">
         <div className="border border-[rgba(0,0,0,0.1)] rounded-2xl p-6 text-left w-[320px] h-[448px]">
           <header>
             <h3 className="dark-text font-medium tracking-[-0.31px] leading-4 mb-4">
@@ -34,7 +34,7 @@ function Pricing() {
               Get Started
             </button>
             <ul className="dark-text tracking-[-0.31px] leading-6 space-y-3">
-              <li className="flex items-start gap-3">
+              <li className="flex items-center gap-3">
                 <img
                   src="/icons/tick.png"
                   alt=""
@@ -44,7 +44,7 @@ function Pricing() {
                 />
                 <span>Up to 5 team members</span>
               </li>
-              <li className="flex items-start gap-3">
+              <li className="flex items-center gap-3">
                 <img
                   src="/icons/tick.png"
                   alt=""
@@ -54,7 +54,7 @@ function Pricing() {
                 />
                 <span>10GB storage</span>
               </li>
-              <li className="flex items-start gap-3">
+              <li className="flex items-center gap-3">
                 <img
                   src="/icons/tick.png"
                   alt=""
@@ -64,7 +64,7 @@ function Pricing() {
                 />
                 <span>Basic analytics</span>
               </li>
-              <li className="flex items-start gap-3">
+              <li className="flex items-center gap-3">
                 <img
                   src="/icons/tick.png"
                   alt=""
@@ -78,7 +78,7 @@ function Pricing() {
           </div>
         </div>
 
-        <div className="popular-card border-2 border-[#155DFC] scale-[1.05] rounded-2xl p-6 text-left w-[320px] h-[448px]">
+        <div className="popular-card border-2 border-[#155DFC] rounded-2xl p-6 text-left w-[320px] h-[448px]">
           <header>
             <span className="badge text-white font-medium px-2 py-0.5 text-xs leading-4 inline-flex items-center justify-center w-[100px] h-[23px] text-center mb-4">
               Most Popular
@@ -101,7 +101,7 @@ function Pricing() {
               Get Started
             </button>
             <ul className="dark-text tracking-[-0.31px] leading-6 space-y-3">
-              <li className="flex items-start gap-3">
+              <li className="flex items-center gap-3">
                 <img
                   src="/icons/tick.png"
                   alt=""
@@ -111,7 +111,7 @@ function Pricing() {
                 />
                 <span>Up to 20 team members</span>
               </li>
-              <li className="flex items-start gap-3">
+              <li className="flex items-center gap-3">
                 <img
                   src="/icons/tick.png"
                   alt=""
@@ -121,7 +121,7 @@ function Pricing() {
                 />
                 <span>100GB storage</span>
               </li>
-              <li className="flex items-start gap-3">
+              <li className="flex items-center gap-3">
                 <img
                   src="/icons/tick.png"
                   alt=""
@@ -131,7 +131,7 @@ function Pricing() {
                 />
                 <span>Advanced analytics</span>
               </li>
-              <li className="flex items-start gap-3">
+              <li className="flex items-center gap-3">
                 <img
                   src="/icons/tick.png"
                   alt=""
@@ -141,7 +141,7 @@ function Pricing() {
                 />
                 <span>Priority support</span>
               </li>
-              <li className="flex items-start gap-3">
+              <li className="flex items-center gap-3">
                 <img
                   src="/icons/tick.png"
                   alt=""
@@ -172,7 +172,7 @@ function Pricing() {
               Contact Sales
             </button>
             <ul className="dark-text tracking-[-0.31px] leading-6 space-y-3">
-              <li className="flex items-start gap-3">
+              <li className="flex items-center gap-3">
                 <img
                   src="/icons/tick.png"
                   alt=""
@@ -182,7 +182,7 @@ function Pricing() {
                 />
                 <span>Unlimited team members</span>
               </li>
-              <li className="flex items-start gap-3">
+              <li className="flex items-center gap-3">
                 <img
                   src="/icons/tick.png"
                   alt=""
@@ -192,7 +192,7 @@ function Pricing() {
                 />
                 <span>Unlimited storage</span>
               </li>
-              <li className="flex items-start gap-3">
+              <li className="flex items-center gap-3">
                 <img
                   src="/icons/tick.png"
                   alt=""
@@ -202,7 +202,7 @@ function Pricing() {
                 />
                 <span>Enterprise analytics</span>
               </li>
-              <li className="flex items-start gap-3">
+              <li className="flex items-center gap-3">
                 <img
                   src="/icons/tick.png"
                   alt=""
@@ -212,7 +212,7 @@ function Pricing() {
                 />
                 <span>24/7 dedicated support</span>
               </li>
-              <li className="flex items-start gap-3">
+              <li className="flex items-center gap-3">
                 <img
                   src="/icons/tick.png"
                   alt=""
