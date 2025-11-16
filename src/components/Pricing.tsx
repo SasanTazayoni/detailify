@@ -13,7 +13,7 @@ function Pricing() {
         </p>
       </header>
 
-      <div className="flex flex-col md:flex-row justify-center items-center gap-8">
+      <div className="flex flex-col md:flex-row justify-center items-center gap-12">
         <div className="border border-[rgba(0,0,0,0.1)] rounded-2xl p-6 text-left w-[320px] h-[448px]">
           <header>
             <h3 className="dark-text font-medium tracking-[-0.31px] leading-4 mb-4">
@@ -40,7 +40,7 @@ function Pricing() {
           </div>
         </div>
 
-        <div className="border border-[rgba(0,0,0,0.1)] rounded-2xl p-6 text-left w-[320px] h-[448px]">
+        <div className="popular-card border-2 border-[#155DFC] scale-[1.05] rounded-2xl p-6 text-left w-[320px] h-[448px]">
           <header>
             <span className="badge text-white font-medium px-2 py-0.5 text-xs leading-4 inline-flex items-center justify-center w-[100px] h-[23px] text-center mb-4">
               Most Popular
