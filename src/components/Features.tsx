@@ -4,7 +4,7 @@ function Features() {
       className="p-6 mt-48 mb-8 text-center tracking-[-0.31px]"
       aria-labelledby="features-heading"
     >
-      <header>
+      <header className="mb-20">
         <h2
           id="features-heading"
           className="dark-text text-[36px] leading-10 tracking-[0.37px]"
