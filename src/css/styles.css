@@ -64,7 +64,7 @@ nav {
   margin: 0 auto;
 }
 
-.nav-logo {
+.logo {
   background: linear-gradient(to bottom right, #155dfc, #9810fa);
   height: 32px;
   width: 32px;
@@ -108,3 +108,5 @@ nav {
 .start-free-trial-btn {
   background: #eceef2;
 }
+
+/* Footer */

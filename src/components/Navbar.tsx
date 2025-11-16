@@ -3,7 +3,7 @@ function Navbar() {
     <nav className="w-full mt-2">
       <div className="navbar-content flex justify-between items-center py-4 px-8">
         <div className="flex items-center gap-2">
-          <div className="nav-logo"></div>
+          <div className="logo"></div>
           <span className="font-semibold dark-text tracking-[-0.31px]">
             Detailify
           </span>
