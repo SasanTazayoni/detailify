@@ -1,7 +1,16 @@
 function CallToAction() {
   return (
     <section className="p-20">
-      <div className="bg-linear-to-r from-[#155DFC] to-[#9810FA] pt-12 pb-6 rounded-[14px]">
+      <div className="relative overflow-hidden bg-linear-to-r from-[#155DFC] to-[#9810FA] pt-12 pb-6 rounded-[14px]">
+        <div
+          className="absolute left-[-122px] top-1/2 w-[244px] h-[244px] bg-[#336AFC] rounded-full"
+          aria-hidden="true"
+        ></div>
+        <div
+          className="absolute right-[-122px] bottom-1/2 w-[244px] h-[244px] bg-[#A227FF] rounded-full"
+          aria-hidden="true"
+        ></div>
+
         <h2 className="text-center text-white font-normal text-[36px] leading-10 tracking-[0.37px] mb-6">
           Ready to get started?
         </h2>
