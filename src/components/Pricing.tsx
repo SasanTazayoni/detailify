@@ -30,10 +30,10 @@ function Pricing() {
             </p>
           </header>
           <div>
-            <button className="dark-text text-sm font-medium p-2 mb-5 tracking-[-0.15px] rounded-lg border border-[rgba(0,0,0,0.1)] w-full leading-5">
+            <button className="dark-text text-sm font-medium p-2 mb-5 tracking-[-0.15px] rounded-lg border border-[rgba(0,0,0,0.1)] w-full">
               Get Started
             </button>
-            <ul className="tracking-[-0.31px]">
+            <ul className="dark-text tracking-[-0.31px] leading-6 space-y-3">
               <li>Up to 5 team members</li>
               <li>10GB storage</li>
               <li>Basic analytics</li>
@@ -64,7 +64,7 @@ function Pricing() {
             <button className="text-white text-sm font-medium p-2 mb-5 tracking-[-0.15px] rounded-lg border border-[rgba(0,0,0,0.1)] w-full">
               Get Started
             </button>
-            <ul className="tracking-[-0.31px]">
+            <ul className="dark-text tracking-[-0.31px] leading-6 space-y-3">
               <li>Up to 20 team members</li>
               <li>100GB storage</li>
               <li>Advanced analytics</li>
@@ -90,7 +90,7 @@ function Pricing() {
             <button className="dark-text text-sm font-medium p-2 mb-5 tracking-[-0.15px] rounded-lg border border-[rgba(0,0,0,0.1)] w-full">
               Contact Sales
             </button>
-            <ul className="tracking-[-0.31px]">
+            <ul className="dark-text tracking-[-0.31px] leading-6 space-y-3">
               <li>Unlimited team members</li>
               <li>Unlimited storage</li>
               <li>Enterprise analytics</li>
