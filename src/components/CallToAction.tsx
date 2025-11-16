@@ -1,6 +1,6 @@
 function CallToAction() {
   return (
-    <section className="p-20">
+    <section className="p-20 mb-8">
       <div className="relative overflow-hidden bg-linear-to-r from-[#155DFC] to-[#9810FA] pt-12 pb-6 rounded-[14px]">
         <div
           className="absolute left-[-122px] top-1/2 w-[244px] h-[244px] bg-[#336AFC] rounded-full"
