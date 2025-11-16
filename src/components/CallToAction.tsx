@@ -1,8 +1,8 @@
 function CallToAction() {
   return (
     <section className="p-20">
-      <div className="bg-[#155DFC]">
-        <h2 className="text-center text-white text-3xl font-semibold mb-4">
+      <div className="bg-[#155DFC] pt-12">
+        <h2 className="text-center text-white font-normal text-3xl mb-4 tracking-[0.37px] leading-10 text-[36px]">
           Ready to get started?
         </h2>
 
