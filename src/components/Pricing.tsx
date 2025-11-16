@@ -1,7 +1,7 @@
 function Pricing() {
   return (
     <section className="py-20 text-center" aria-labelledby="pricing-heading">
-      <header className="mb-12">
+      <header className="mb-16">
         <h2
           id="pricing-heading"
           className="dark-text text-[36px] leading-10 tracking-[0.37px]"
