@@ -1,7 +1,7 @@
 function Features() {
   return (
     <section
-      className="p-6 mt-48 mb-8 text-center tracking-[-0.31px]"
+      className="p-6 mt-48 text-center tracking-[-0.31px]"
       aria-labelledby="features-heading"
     >
       <header className="mb-20">
