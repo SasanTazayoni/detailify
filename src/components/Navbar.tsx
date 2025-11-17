@@ -14,7 +14,7 @@ function Navbar() {
           <a href="/">About</a>
           <a href="/">Dashboard</a>
         </div>
-        <div className="flex gap-2 font-medium text-sm leading-5">
+        <div className="flex gap-3 font-medium text-sm leading-5">
           <button className="dark-text py-2 px-4 rounded-lg cursor-pointer tracking-[-0.15px]">
             Sign In
           </button>
