@@ -1,7 +1,7 @@
 function Footer() {
   return (
     <footer className="mt-[100px] bg-[#101828] text-sm leading-5 tracking-[-0.15px] text-white">
-      <div className="navbar-content px-8 pt-16 pb-4">
+      <div className="navbar-content px-8 pt-24 pb-4">
         <div className="grid grid-cols-2 md:grid-cols-4 gap-8 mb-8">
           <div>
             <h3 className="flex items-center gap-2 mb-4 font-semibold text-base tracking-[-0.31px]">
